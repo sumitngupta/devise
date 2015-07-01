@@ -1,5 +1,7 @@
 ![Devise Logo](https://raw.github.com/plataformatec/devise/master/devise.png)
 
+example change to the readme
+
 By [Plataformatec](http://plataformatec.com.br/).
 
 [![Build Status](https://api.travis-ci.org/plataformatec/devise.svg?branch=master)](http://travis-ci.org/plataformatec/devise)
